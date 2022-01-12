@@ -1,5 +1,5 @@
 # todos
-This exercise is a ToDo list application built with React.  The input field provides the user with the ablity to add items to the list.  The '(-) allows the user to remove a completed item from the view.
+This exercise is a ToDo list application built with React.  The input field provides the user with the ablity to add items to the list.  Clicking on an item in the list allows the user to remove it from the view.
 
 
 This project demonstrates the following concepts: 
